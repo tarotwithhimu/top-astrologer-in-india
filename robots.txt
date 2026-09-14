@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tarotwithhimu.github.io/top-astrologer-in-india/sitemap.xml
